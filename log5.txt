@@ -1,0 +1,293 @@
+===Thread id: 5===
+===Execution Stack===
+(Ref(int) v;(heapAllocation(v [Integer value 20]);(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5]))))))
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(heapAllocation(v [Integer value 20]);(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))))
+Ref(int) v
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(heapAllocation(v [Integer value 20]);(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))))
+Ref(int) v
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(heapAllocation(v [Integer value 20]);(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=0, type=int]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(heapAllocation(v [Integer value 20]);(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=0, type=int]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5]))))
+heapAllocation(v [Integer value 20])
+
+===Symbol Table===
+Key: v --> Value: [Reference address=0, type=int]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5]))))
+heapAllocation(v [Integer value 20])
+
+===Symbol Table===
+Key: v --> Value: [Reference address=0, type=int]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5]))))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(print(readHeap(v));(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5]))))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))
+print(readHeap(v))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))
+print(readHeap(v))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+[Integer value 20]
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+(writeHeap(v, [Integer value 30]);print((readHeap(v)+[Integer value 5])))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+[Integer value 20]
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+print((readHeap(v)+[Integer value 5]))
+writeHeap(v, [Integer value 30])
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+[Integer value 20]
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+print((readHeap(v)+[Integer value 5]))
+writeHeap(v, [Integer value 30])
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 20]
+
+===Output List===
+[Integer value 20]
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+print((readHeap(v)+[Integer value 5]))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 30]
+
+===Output List===
+[Integer value 20]
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+print((readHeap(v)+[Integer value 5]))
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 30]
+
+===Output List===
+[Integer value 20]
+
+---------------------------------------
+
+===Thread id: 5===
+===Execution Stack===
+
+===Symbol Table===
+Key: v --> Value: [Reference address=1, type=int]
+
+===File Table===
+
+===Heap===
+Address: 1 --> Value: [Integer value 30]
+
+===Output List===
+[Integer value 20]
+[Integer value 35]
+
+---------------------------------------
+

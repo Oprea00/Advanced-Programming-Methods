@@ -1,0 +1,286 @@
+===Thread id: 3===
+===Execution Stack===
+(bool a;(int v;(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v)))))
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(int v;(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))))
+bool a
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(int v;(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))))
+bool a
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(int v;(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(int v;(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v)))
+int v
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v)))
+int v
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v)))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+(a = [Boolean value true];((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v)))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))
+a = [Boolean value true]
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))
+a = [Boolean value true]
+
+===Symbol Table===
+Key: a --> Value: [Boolean value false]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value true]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+((IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]));print(v))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value true]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+print(v)
+(IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value true]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+print(v)
+(IF(a) THEN(v = [Integer value 2])ELSE(v = [Integer value 3]))
+
+===Symbol Table===
+Key: a --> Value: [Boolean value true]
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+print(v)
+
+===Symbol Table===
+Key: a --> Value: [Boolean value true]
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+print(v)
+
+===Symbol Table===
+Key: a --> Value: [Boolean value true]
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 3===
+===Execution Stack===
+
+===Symbol Table===
+Key: a --> Value: [Boolean value true]
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 2]
+
+---------------------------------------
+

@@ -1,0 +1,833 @@
+===Thread id: 7===
+===Execution Stack===
+(int v;(v = [Integer value 4];(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v))))
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(v = [Integer value 4];(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v)))
+int v
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(v = [Integer value 4];(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v)))
+int v
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(v = [Integer value 4];(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v)))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(v = [Integer value 4];(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v)))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v))
+v = [Integer value 4]
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v))
+v = [Integer value 4]
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+(( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])));print(v))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 4]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 3]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+(print(v);v = (v-[Integer value 1]))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+[Integer value 1]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+v = (v-[Integer value 1])
+
+===Symbol Table===
+Key: v --> Value: [Integer value 1]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+[Integer value 1]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+[Integer value 1]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+( while((v>[Integer value 0]))(print(v);v = (v-[Integer value 1])))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+[Integer value 1]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+[Integer value 1]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+[Integer value 1]
+
+---------------------------------------
+
+===Thread id: 7===
+===Execution Stack===
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 4]
+[Integer value 3]
+[Integer value 2]
+[Integer value 1]
+[Integer value 0]
+
+---------------------------------------
+

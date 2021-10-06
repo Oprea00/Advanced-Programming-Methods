@@ -1,0 +1,151 @@
+===Thread id: 1===
+===Execution Stack===
+(int v;(v = [Integer value 2];print(v)))
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+(v = [Integer value 2];print(v))
+int v
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+(v = [Integer value 2];print(v))
+int v
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+(v = [Integer value 2];print(v))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+(v = [Integer value 2];print(v))
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+print(v)
+v = [Integer value 2]
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+print(v)
+v = [Integer value 2]
+
+===Symbol Table===
+Key: v --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+print(v)
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 1===
+===Execution Stack===
+
+===Symbol Table===
+Key: v --> Value: [Integer value 2]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 2]
+
+---------------------------------------
+

@@ -1,0 +1,286 @@
+===Thread id: 2===
+===Execution Stack===
+(int a;(int b;(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b)))))
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(int b;(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b))))
+int a
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(int b;(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b))))
+int a
+
+===Symbol Table===
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(int b;(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b))))
+
+===Symbol Table===
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(int b;(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b))))
+
+===Symbol Table===
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b)))
+int b
+
+===Symbol Table===
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b)))
+int b
+
+===Symbol Table===
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b)))
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(a = ([Integer value 2]+([Integer value 3]*[Integer value 5]));(b = (a+[Integer value 1]);print(b)))
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(b = (a+[Integer value 1]);print(b))
+a = ([Integer value 2]+([Integer value 3]*[Integer value 5]))
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(b = (a+[Integer value 1]);print(b))
+a = ([Integer value 2]+([Integer value 3]*[Integer value 5]))
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 0]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(b = (a+[Integer value 1]);print(b))
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 17]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+(b = (a+[Integer value 1]);print(b))
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 17]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+print(b)
+b = (a+[Integer value 1])
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 17]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+print(b)
+b = (a+[Integer value 1])
+
+===Symbol Table===
+Key: b --> Value: [Integer value 0]
+Key: a --> Value: [Integer value 17]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+print(b)
+
+===Symbol Table===
+Key: b --> Value: [Integer value 18]
+Key: a --> Value: [Integer value 17]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+print(b)
+
+===Symbol Table===
+Key: b --> Value: [Integer value 18]
+Key: a --> Value: [Integer value 17]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+
+---------------------------------------
+
+===Thread id: 2===
+===Execution Stack===
+
+===Symbol Table===
+Key: b --> Value: [Integer value 18]
+Key: a --> Value: [Integer value 17]
+
+===File Table===
+
+===Heap===
+
+===Output List===
+[Integer value 18]
+
+---------------------------------------
+
